@@ -26,4 +26,4 @@
 | `ACCOUNTS_JSON` | 账号密码列表 (JSON 格式) | `[{"user":"A@mail.com","pwd":"123"},{"user":"B@mail.com","pwd":"456"}]` |
 
 ## ！！ 注意  这里的账户是你的登录邮箱，密码是面板密码不是登录账号的密码。
-### 面板密码在 https://rustix.me/me/settings 中重置。
+### 面板密码在 https://rustix.me/me/settings 中重置，重置后面板密码会发到你的邮箱。
